@@ -3,6 +3,7 @@
 
 A professional-grade, futuristic cybersecurity tool designed to identify phishing attempts, scam links, and malicious URL patterns using a dual-layer analysis engine (Heuristic + Generative AI).
 
+# live url https://scam-link-checker-analyzer.netlify.app/
 ## 🚀 Key Features
 
 - **Dual-Layer Analysis**: Combines local heuristic pattern matching with Google Gemini AI for deep threat assessment.
